@@ -10,10 +10,10 @@ import coil.transform.CircleCropTransformation
 import com.shihab.friends.R
 import com.shihab.friends.databinding.ItemNoteBinding
 import com.shihab.friends.model.User
-import com.shihab.friends.utils.OnItemClickListener
+import com.shihab.friends.utils.onItemClickListener
 import java.util.*
 
-class UserAdapter(val OnItemClickListener: OnItemClickListener) : Adapter<UserAdapter.UserViewHolder>() {
+class UserAdapter(val OnItemClickListener: onItemClickListener) : Adapter<UserAdapter.UserViewHolder>() {
 
     private val userList: MutableList<User> = ArrayList()
 

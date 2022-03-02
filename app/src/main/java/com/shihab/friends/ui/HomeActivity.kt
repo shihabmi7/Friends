@@ -12,12 +12,12 @@ import com.shihab.friends.R
 import com.shihab.friends.databinding.ActivityMainBinding
 import com.shihab.friends.model.User
 import com.shihab.friends.utils.NetworkResult
-import com.shihab.friends.utils.OnItemClickListener
+import com.shihab.friends.utils.onItemClickListener
 import com.shihab.friends.viewmodel.HomeViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class HomeActivity : AppCompatActivity(), OnItemClickListener {
+class HomeActivity : AppCompatActivity(), onItemClickListener {
 
     val viewModel: HomeViewModel by viewModels()
     private lateinit var binding: ActivityMainBinding
