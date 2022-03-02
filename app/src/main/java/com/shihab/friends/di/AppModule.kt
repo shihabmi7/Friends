@@ -21,7 +21,7 @@ class AppModule {
     private val apiURL = if (BuildConfig.DEBUG) {
         "https://randomuser.me/"
     } else {
-        "https://randomuser.me/"
+        "GIVE_YOUR_LINK"
     }
 
     @Singleton
