@@ -57,5 +57,20 @@ f
 6app/src/main/java/com/shihab/friends/model/Timezone.kt,2/b/2bea5a4142fd588eca3f209f19da12b7d0e76a93
 m
 =app/src/main/java/com/shihab/friends/model/BaseApiResponse.kt,9/a/9afff9310163a2d137f05518ea3205e627052d18
-9
-	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+d
+4app/src/main/java/com/shihab/friends/di/AppModule.kt,f/0/f0e32afbf8c095420fa843ebd4a98bf447de44a3
+o
+?app/src/main/java/com/shihab/friends/viewmodel/HomeViewModel.kt,f/0/f0533d5b5ffa92120d91edcd066cc8abd8e9a335
+m
+=app/src/main/java/com/shihab/friends/network/UserInterface.kt,1/b/1b8f1f703549a3d7f48d1d57dc1d848ec32a7d45
+q
+Aapp/src/main/java/com/shihab/friends/repository/UserRepository.kt,c/3/c3e259acb7104294021856983ee0f045f88d6d2a
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+n
+>app/src/main/java/com/shihab/friends/ui/UserDetailsActivity.kt,e/e/ee36ee7161d248a2c3893c8e8d024a9393d82f24
+g
+7app/src/main/java/com/shihab/friends/ui/HomeActivity.kt,0/8/08f4b18916c576107010b44aaa1d8f5b7f3f0228
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
