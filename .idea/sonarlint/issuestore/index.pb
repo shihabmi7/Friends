@@ -1,8 +1,6 @@
 
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 A
@@ -65,8 +63,6 @@ m
 =app/src/main/java/com/shihab/friends/network/UserInterface.kt,1/b/1b8f1f703549a3d7f48d1d57dc1d848ec32a7d45
 q
 Aapp/src/main/java/com/shihab/friends/repository/UserRepository.kt,c/3/c3e259acb7104294021856983ee0f045f88d6d2a
-@
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 n
 >app/src/main/java/com/shihab/friends/ui/UserDetailsActivity.kt,e/e/ee36ee7161d248a2c3893c8e8d024a9393d82f24
 g
