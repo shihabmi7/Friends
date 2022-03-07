@@ -1,5 +1,7 @@
 # Friends : An Example of Android Clean Architecture
 
+Data Comes From https://randomuser.me/ 
+
 ## Here I use 
 - MVVM as architecture
 - Dagger-Hilt as Dependency Injection 
