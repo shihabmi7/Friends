@@ -1,4 +1,4 @@
-# Friends : Android Clean Architecture Project
+# Friends : An Example of Android Clean Architecture
 
 ## Here I use 
 - MVVM as architecture
