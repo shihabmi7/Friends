@@ -20,7 +20,7 @@ class HomeViewModel @Inject constructor(private val repository: UserRepository) 
 
     fun getUserListWithFlow() {
         viewModelScope.launch {
-            repository.getAllUserWithFlow("json", 10).collect { values ->
+            repository.getAllUserWithFlow("", 0).collect { values ->
                 _userList.value = values
             }
         }

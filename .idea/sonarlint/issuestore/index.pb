@@ -11,8 +11,6 @@ X
 gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
 ;
 gradlew.bat,2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
-j
-:app/src/main/java/com/shihab/friends/FriendsApplication.kt,d/c/dcb66194a3ddb0161012b0138a963f93208e3aae
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 >
@@ -23,8 +21,6 @@ F
 app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
 v
 Fapp/src/androidTest/java/com/shihab/friends/ExampleInstrumentedTest.kt,3/1/3196df7a1a611140c98d97ecc90e6348316d5fa3
-k
-;app/src/main/java/com/shihab/friends/utils/NetworkResult.kt,1/7/17bb29f469df971485e2a2fe84c696a0765d7d89
 c
 3app/src/main/java/com/shihab/friends/model/Login.kt,0/d/0d21e4758dc25d3b56c90195e5afb34460c293d6
 b
@@ -49,24 +45,20 @@ a
 1app/src/main/java/com/shihab/friends/model/Dob.kt,b/9/b981f9e069efc71ac64a5a2ea047b86a84e8368f
 e
 5app/src/main/java/com/shihab/friends/model/Picture.kt,f/5/f51b57436d9fa18ce5d42230a483cbb25604f1c5
-j
-:app/src/main/java/com/shihab/friends/network/ApiService.kt,7/8/78900243454088d2a19e1cdb8707492e380a9ab7
 f
 6app/src/main/java/com/shihab/friends/model/Timezone.kt,2/b/2bea5a4142fd588eca3f209f19da12b7d0e76a93
-m
-=app/src/main/java/com/shihab/friends/model/BaseApiResponse.kt,9/a/9afff9310163a2d137f05518ea3205e627052d18
-d
-4app/src/main/java/com/shihab/friends/di/AppModule.kt,f/0/f0e32afbf8c095420fa843ebd4a98bf447de44a3
-o
-?app/src/main/java/com/shihab/friends/viewmodel/HomeViewModel.kt,f/0/f0533d5b5ffa92120d91edcd066cc8abd8e9a335
-m
-=app/src/main/java/com/shihab/friends/network/UserInterface.kt,1/b/1b8f1f703549a3d7f48d1d57dc1d848ec32a7d45
-q
-Aapp/src/main/java/com/shihab/friends/repository/UserRepository.kt,c/3/c3e259acb7104294021856983ee0f045f88d6d2a
-n
->app/src/main/java/com/shihab/friends/ui/UserDetailsActivity.kt,e/e/ee36ee7161d248a2c3893c8e8d024a9393d82f24
-g
-7app/src/main/java/com/shihab/friends/ui/HomeActivity.kt,0/8/08f4b18916c576107010b44aaa1d8f5b7f3f0228
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+q
+Aapp/src/main/java/com/shihab/friends/utils/onItemClickListener.kt,e/e/ee96dd5b04fef0ea2e38ef6b8158ef1b1814acf7
+k
+;app/src/main/java/com/shihab/friends/utils/NetworkResult.kt,1/7/17bb29f469df971485e2a2fe84c696a0765d7d89
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+j
+:app/src/main/java/com/shihab/friends/network/ApiService.kt,7/8/78900243454088d2a19e1cdb8707492e380a9ab7
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+m
+=app/src/main/java/com/shihab/friends/model/BaseApiResponse.kt,9/a/9afff9310163a2d137f05518ea3205e627052d18

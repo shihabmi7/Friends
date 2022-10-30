@@ -53,14 +53,15 @@ class HomeActivity : AppCompatActivity(), onItemClickListener {
                 }
             }
         }
+
+        lifecycleScope.launchWhenResumed {
+            viewModel.getUserListWithFlow()
+        }
     }
 
 
     override fun onResume() {
         super.onResume()
-        lifecycleScope.launchWhenResumed {
-            viewModel.getUserListWithFlow()
-        }
     }
 
     override fun onClicked(user: User) {
