@@ -1,4 +1,4 @@
-# Friends : An Example of Android Clean Architecture
+# Friends : An Example of Android Best Practices
 
 Data Comes From https://randomuser.me/ 
 
